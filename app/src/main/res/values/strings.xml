@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cek Kodam</string>
+    <string name="masukkan_teks_di_sini">MASUKKAN NAMAMU</string>
+    <string name="submit">CEK SEKARANG</string>
+    <string name="output_akan_ditampilkan_di_sini">HASIL KHODAM KAMU AKAN DITAMPILKAN KELUAR DISINI</string>
+    <string name="cek_khodam">CEK KHODAM</string>
+    <string name="nama_dan_khodam_kamu_akan_muncul_di_sini">Nama dan Khodam kamu akan muncul di sini</string>
+    <string name="qr_code">QR Code</string>
+    <string name="kasih_saya_semangat_nagar_bisa_membuat_aplikasi_seperti_ini_lagi_napp_by_chaidar_aria">Kasih saya semangat,\nagar bisa membuat aplikasi seperti ini lagi\nApp By Chaidar Aria</string>
+</resources>

@@ -10,7 +10,6 @@ Aplikasi ini memungkinkan pengguna untuk mendapatkan "khodam" (entitas atau makh
 
 - Memasukkan nama untuk mendapatkan khodam.
 - Menampilkan hasil berupa nama dan khodam yang dipilih secara acak.
-- Menyertakan gambar QR code dengan pesan semangat di bawahnya.
 
 ## Instalasi
 

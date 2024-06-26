@@ -34,6 +34,10 @@ Jika Anda ingin mendukung pengembangan aplikasi ini, Anda dapat memberikan donas
 
 [Support via Saweria](https://saweria.co/chaidararia)
 
+Jika Anda ingin melihat detail lebih lanjut atau mengunduh file APK aplikasi, silakan kunjungi tautan berikut:
+
+[Download APK](https://drive.google.com/file/d/1karOGuEuTBM3HvUIjiiEmO8ASwCCJbgA/view?usp=sharing)
+
 ## Lisensi
 
 Terima kasih telah menggunakan aplikasi ini! Untuk pertanyaan atau masukan, silakan hubungi Chaidar Aria (+6281231967886).

@@ -33,7 +33,7 @@ Kontribusi terbuka untuk perbaikan atau peningkatan fitur aplikasi ini. Jika And
 
 Jika Anda ingin mendukung pengembangan aplikasi ini, Anda dapat memberikan donasi melalui Saweria:
 
-[![Support via Saweria](https://saweria.co/chaidararia)
+[Support via Saweria](https://saweria.co/chaidararia)
 
 ## Lisensi
 
